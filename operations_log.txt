@@ -1,0 +1,32 @@
+[2026-05-30 15:51:12] FileNotFoundError: The specified folder does not exist.
+[2026-05-30 16:04:58] FileNotFoundError: The specified folder does not exist.
+[2026-05-30 16:05:28] FileNotFoundError: The specified folder does not exist.
+[2026-05-30 16:08:56] FileNotFoundError: The specified folder does not exist.
+[2026-05-30 16:09:29] FileNotFoundError: The specified folder does not exist.
+[2026-05-30 16:11:27] FileNotFoundError: The specified folder does not exist.
+[2026-05-30 16:11:56] FileNotFoundError: The specified folder does not exist.
+[2026-05-30 16:14:12] FileNotFoundError: The specified folder does not exist.
+[2026-05-30 16:18:06] ERROR: The folder does not exist:
+C:\Users\sinch\OneDrive\Desktop\file-test
+[2026-05-30 16:25:53] Deleted empty file: simple.txt
+[2026-05-30 16:25:53] Deleted empty file: sample.jpg
+[2026-05-30 16:25:53] Deleted empty file: report.pdf
+[2026-05-30 16:25:53] Deleted empty file: addresses.csv
+[2026-05-30 16:25:53] Automation completed successfully.
+[2026-05-30 16:35:23] Deleted empty file: image.jpg
+[2026-05-30 16:35:23] Deleted empty file: report.pdf
+[2026-05-30 16:35:23] Deleted empty file: notes.txt
+[2026-05-30 16:35:23] Deleted empty file: empty.txt
+[2026-05-30 16:35:23] Automation completed successfully.
+[2026-05-30 16:36:24] Automation completed successfully.
+[2026-05-30 16:37:35] Automation completed successfully.
+[2026-05-30 16:40:09] Renamed: report.pdf -> File_1.pdf
+[2026-05-30 16:40:09] Renamed: notes.txt -> File_2.txt
+[2026-05-30 16:40:09] Renamed: addresses.csv -> File_3.csv
+[2026-05-30 16:40:09] Deleted empty file: empty.txt
+[2026-05-30 16:40:09] Automation completed successfully.
+[2026-05-30 16:43:20] Renamed: report.pdf -> File_1.pdf
+[2026-05-30 16:43:20] Renamed: notes.txt -> File_2.txt
+[2026-05-30 16:43:20] Renamed: addresses.csv -> File_3.csv
+[2026-05-30 16:43:20] Deleted empty file: empty.txt
+[2026-05-30 16:43:20] Automation completed successfully.
